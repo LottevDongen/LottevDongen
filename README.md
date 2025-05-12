@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I’m currently learning how to use GitHub
+🔭 I’m currently working on a MATLAB script to be able to analyze sleep spindle characteristics
 <!--
 **LottevDongen/LottevDongen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
